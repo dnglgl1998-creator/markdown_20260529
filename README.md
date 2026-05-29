@@ -28,7 +28,7 @@
 
 ### 7. 이미지 링크 
 ' 이미지 ![링크 텍스트](URL)'
-![https://github.com/dnglgl1998-creator/markdown_20260529/blob/main/DOC/cafe_logo.jpg](URL)
+
 
 
 ### 6. 링크(Link)
